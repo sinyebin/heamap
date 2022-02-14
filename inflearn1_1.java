@@ -20,6 +20,5 @@ public class inflearn1_1 {
             }
         }
         return answer;
-    
     }
 }
